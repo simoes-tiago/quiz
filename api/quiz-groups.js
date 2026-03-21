@@ -1,7 +1,7 @@
-import fs from 'fs/promises';
-import path from 'path';
+const fs = require('fs').promises;
+const path = require('path');
 
-export default async function handler(req, res) {
+module.exports = async function handler(req, res) {
   if (req.method !== 'GET') {
     return res.status(405).json({ error: 'Method not allowed' });
   }
@@ -32,4 +32,4 @@ export default async function handler(req, res) {
     console.error("Error listing quiz groups:", error);
     res.status(500).json({ error: "Failed to list quiz groups" });
   }
-}
+};
