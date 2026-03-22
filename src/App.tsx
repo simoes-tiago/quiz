@@ -130,18 +130,18 @@ export default function App() {
             >
               <div className="space-y-4">
                 <h2 className="text-3xl sm:text-4xl font-serif italic text-[#2A2A20]">O que vamos aprender hoje?</h2>
-                <p className="text-base sm:text-lg text-[#6A6A50]">Escolha um tema e quantas perguntas quer responder!</p>
+                <p className="text-base sm:text-lg text-[#6A6A50]">Escolhe um tema e quantas perguntas queres responder!</p>
               </div>
 
               <div className="space-y-6">
                 <div className="space-y-3">
-                  <label className="text-lg font-medium text-[#4A4A40]">Escolha o tema do quiz:</label>
+                  <label className="text-lg font-medium text-[#4A4A40]">Escolhe o tema do quiz:</label>
                   <select
                     value={selectedGroup}
                     onChange={(e) => setSelectedGroup(e.target.value)}
                     className="w-full p-3 sm:p-4 bg-white rounded-2xl border-2 border-[#E5E5E0] focus:border-[#5A5A40] focus:ring-0 transition-all text-base sm:text-lg shadow-sm hover:shadow-md"
                   >
-                    <option value="">Selecione um tema...</option>
+                    <option value="">Seleciona um tema...</option>
                     {quizGroups.map((group) => (
                       <option key={group.id} value={group.id}>
                         {group.id.charAt(0).toUpperCase() + group.id.slice(1)} ({group.questionCount} perguntas)
@@ -173,7 +173,7 @@ export default function App() {
                 disabled={!selectedGroup.trim()}
                 className="w-full py-4 sm:py-6 bg-[#5A5A40] text-white rounded-full text-lg sm:text-xl font-medium flex items-center justify-center gap-3 hover:bg-[#4A4A30] disabled:opacity-50 disabled:cursor-not-allowed transition-all shadow-lg hover:shadow-xl active:scale-[0.98]"
               >
-                Iniciar Quiz <Sparkles className="w-6 h-6" />
+                Iniciar o Quiz <Sparkles className="w-6 h-6" />
               </button>
             </motion.div>
           )}
@@ -192,7 +192,7 @@ export default function App() {
               </div>
               <div className="text-center space-y-2">
                 <h3 className="text-2xl font-serif italic text-[#2A2A20]">{loadingStep}</h3>
-                <p className="text-[#8A8A70]">Aguarde um momento, a mágica está acontecendo...</p>
+                <p className="text-[#8A8A70]">Aguarda um momento, a magia está a acontecer...</p>
               </div>
             </motion.div>
           )}
