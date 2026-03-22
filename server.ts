@@ -3,7 +3,6 @@ import { createServer as createViteServer } from "vite";
 import path from "path";
 import fs from "fs/promises";
 import react from '@vitejs/plugin-react';
-import tailwindcss from '@tailwindcss/vite';
 
 async function startServer() {
   const app = express();
