@@ -7,7 +7,7 @@ module.exports = async function handler(req, res) {
   }
 
   try {
-    const questionsDir = path.join(process.cwd(), 'questions');
+    const questionsDir = path.resolve(__dirname, '../questions');
     const files = await fs.readdir(questionsDir);
     
     const groups = [];

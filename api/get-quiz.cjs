@@ -59,7 +59,10 @@ module.exports = async function handler(req, res) {
   try {
     const { groupId, questionCount } = req.body;
     
-    const filePath = path.join(process.cwd(), 'questions', groupId);
+    // In Netlify functions, included_files are placed relative to the function file or at process.cwd()
+    // Let's try to find it more reliably
+    const questionsDir = path.resolve(__dirname, '../questions');
+    const filePath = path.join(questionsDir, groupId);
     const content = await fs.readFile(filePath, 'utf-8');
     
     // Parse questions from markdown format
