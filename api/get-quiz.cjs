@@ -51,38 +51,44 @@ function parseQuestionsFromMarkdown(content) {
   return questions;
 }
 
-module.exports = async function handler(req, res) {
-  if (req.method !== 'POST') {
-    return res.status(405).json({ error: 'Method not allowed' });
+exports.handler = async function(event, context) {
+  if (event.httpMethod !== 'POST') {
+    return {
+      statusCode: 405,
+      body: JSON.stringify({ error: 'Method not allowed' }),
+    };
   }
 
   try {
-    const { groupId, questionCount } = req.body;
+    const body = JSON.parse(event.body || '{}');
+    const { groupId, questionCount } = body;
     
-    // In Netlify functions, included_files are placed relative to the function file or at process.cwd()
-    // Let's try to find it more reliably
-    const questionsDir = path.resolve(__dirname, '../questions');
+    const questionsDir = path.join(process.cwd(), 'questions');
     const filePath = path.join(questionsDir, groupId);
     const content = await fs.readFile(filePath, 'utf-8');
     
-    // Parse questions from markdown format
     const questions = parseQuestionsFromMarkdown(content);
     
-    // Randomly select questions
     const shuffled = questions.sort(() => 0.5 - Math.random());
     const selected = shuffled.slice(0, Math.min(questionCount, questions.length));
     
-    // Add simple explanations without image prompts
     selected.forEach(question => {
       question.explanation = "Esta questão faz parte do nosso quiz educativo!";
     });
     
-    res.json({
-      title: `Quiz - ${groupId}`,
-      questions: selected
-    });
+    return {
+      statusCode: 200,
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        title: `Quiz - ${groupId}`,
+        questions: selected
+      }),
+    };
   } catch (error) {
-    console.error("Error getting quiz:", error);
-    res.status(500).json({ error: "Failed to get quiz" });
+    console.error("Erro ao obter quiz:", error);
+    return {
+      statusCode: 500,
+      body: JSON.stringify({ error: "Failed to get quiz", details: error.message }),
+    };
   }
 };
