@@ -45,7 +45,9 @@ async function startServer() {
     try {
       const { groupId, questionCount } = req.body;
       
-      const filePath = path.join(process.cwd(), 'questions', groupId);
+      // Add .md extension if not present
+      const filename = groupId.endsWith('.md') ? groupId : `${groupId}.md`;
+      const filePath = path.join(process.cwd(), 'questions', filename);
       const content = await fs.readFile(filePath, 'utf-8');
       
       // Parse questions from markdown format
