@@ -1,1280 +1,873 @@
-Baseado em todas as 16 imagens sobre fatores abióticos, distribuição, reprodução e proteção, aqui estão 180 perguntas de dificuldade média seguindo o formato TOON.
+Baseado APENAS nos termos e dados que aparecem literalmente nas imagens fornecidas sobre fatores abióticos, reprodução e influência da luz, aqui estão as perguntas seguindo rigorosamente o formato solicitado.
 
-🌞 TOPIC: LUZ
-1. Qual é a importância da luz como fator abiótico?
-A) Não afeta os organismos
-B) Serve apenas para visão
-C) Apenas aquece o ambiente
-D) É essencial para a fotossíntese
+🌍 IMAGEM: FATORES ABIÓTICOS E ECOSSISTEMA
+1. Quais são os dois tipos de fatores que formam o ecossistema e interagem entre si?
+A) Animais endotérmicos e animais ectotérmicos
+B) Fatores terrestres e fatores aquáticos
+C) Plantas heliófilas e plantas umbrófitas
+D) Fatores abióticos (não vivos) e fatores bióticos (vivos)
 Resposta: D
 
-2. Como a luz afeta o crescimento das plantas?
-A) Apenas afeta a cor
-B) Influencia a fotossíntese e desenvolvimento
-C) Apenas aquece as folhas
-D) Não tem efeito
+2. Como se classificam os animais que mantêm a temperatura do corpo constante, como os mamíferos?
+A) Animais lucífugos
+B) Animais endotérmicos
+C) Animais mesófilos
+D) Animais ectotérmicos
 Resposta: B
 
-3. O que é a fotoperiodicidade?
-A) Cor da luz
-B) Intensidade da luz
-C) Resposta dos organismos à duração da luz
-D) Tipo de luz artificial
+3. Qual é a diferença entre a homocromia e a homotipia como exemplos de camuflagem?
+A) Na homocromia o animal tem hábitos noturnos; na homotipia o animal faz migrações
+B) Na homocromia o animal tem a mesma cor do meio; na homotipia o animal tem a forma de objetos do ambiente
+C) Na homocromia o animal reduz o focinho; na homotipia o animal armazena gordura
+D) Na homocromia o animal imita outra espécie; na homotipia o animal muda de sexo
+Resposta: B
+
+4. Que nome se dá ao estado de dormência que alguns animais apresentam na estação quente e seca?
+A) Estivação
+B) Eclosão
+C) Hibernação
+D) Fototactismo
+Resposta: A
+
+💧 IMAGEM: INFLUÊNCIA DA ÁGUA
+5. Em relação à necessidade de água, como são classificados os animais ou plantas que vivem em locais secos?
+A) Mesófilos
+B) Xerófilos
+C) Hidrófilos
+D) Higrófilos
+Resposta: B
+
+6. Nas plantas xerófitas, que transformações morfológicas podem sofrer as folhas para reduzir as perdas de água por transpiração?
+A) Transformam-se em raízes longas
+B) Transformam-se em folhas largas
+C) Transformam-se em folhas em forma de espinho
+D) Transformam-se em caules carnosos
 Resposta: C
 
-4. Como a luz solar influencia os ecossistemas aquáticos?
-A) Causa turbidez
-B) Permite a fotossíntese nas camadas superficiais
-C) Não afeta a água
-D) Apenas aquece a superfície
-Resposta: B
+☀️ IMAGEM: INFLUÊNCIA DA LUZ NOS ANIMAIS
+7. Quais são as características dos animais chamados "Lucífugos"?
+A) Fogem da luz, preferem ambientes escuros e estão ativos sobretudo à noite
+B) Desenvolvem-se dentro de um ovo no interior do corpo da fêmea
+C) Gostam da luz, estão ativos durante o dia e vivem em ambientes bem iluminados
+D) Têm a capacidade de mudar a cor do seu revestimento para se esconderem
+Resposta: A
 
-5. O que são plantas de dia longo?
-A) Florescem sempre
-B) Florescem quando os dias são longos
-C) Não dependem da luz
-D) Florescem em dias curtos
-Resposta: B
-
-6. Como a falta de luz afeta as plantas?
-A) Melhora o crescimento
-B) Aumenta a fotossíntese
-C) Causa etiolamento e crescimento fraco
-D) Não tem efeito
+8. Como se comportam os animais que apresentam um fototactismo negativo em relação à luz?
+A) Mudam a cor da sua pelagem para branco durante o inverno
+B) Realizam ponturas na terra para depositar os seus ovos
+C) Afastam-se da luz, procurando locais escuros
+D) Deslocam-se e são atraídos em direção à luz
 Resposta: C
 
-7. O que é a intensidade luminosa?
-A) Duração da luz
-B) Quantidade de luz que atinge uma superfície
-C) Cor da luz
-D) Tipo de luz
-Resposta: B
-
-8. Como a luz afeta os animais?
-A) Apenas a temperatura
-B) Influencia ritmos circadianos e comportamento
-C) Não afeta os animais
-D) Apenas a visão
-Resposta: B
-
-9. O que são plantas C3?
-A) Plantas que não fazem fotossíntese
-B) Plantas que fixam CO2 diretamente
-C) Plantas de sombra
-D) Plantas aquáticas
-Resposta: B
-
-10. Como a luz afeta a distribuição dos organismos?
-A) Determina zonas de luz e sombra
-B) Apenas a humidade
-C) Não afeta a distribuição
-D) Apenas a temperatura
+9. Segundo o texto, qual é a utilidade do fotoperíodo (número de horas de luz por dia) para as aves na primavera?
+A) Influencia as atividades reprodutoras, estimulando o canto, o acasalamento e a postura de ovos
+B) Ajuda as aves a realizarem a respiração debaixo de água
+C) Determina o sexo das crias dentro dos ovos incubados
+D) Obriga as aves a transformarem-se em animais hermafroditas
 Resposta: A
 
-🌡️ TOPIC: TEMPERATURA
-11. Como a temperatura afeta os organismos?
-A) Apenas a reprodução
-B) Influencia o metabolismo e atividade enzimática
-C) Apenas a respiração
-D) Não afeta os organismos
-Resposta: B
-
-12. O que é o intervalo térmico de tolerância?
-A) Temperatura ideal
-B) Temperaturas mínima e máxima suportadas
-C) Temperatura média
-D) Temperatura de reprodução
-Resposta: B
-
-13. Como os animais se adaptam ao frio?
-A) Não se adaptam
-B) Perdem pelagem
-C) Pelagem densa, hibernação, acumulação de gordura
-D) Aumentam atividade
-Resposta: C
-
-14. O que é a termorregulação?
-A) Resfriamento ambiental
-B) Aquecimento solar
-C) Capacidade de manter temperatura corporal
-D) Mudança de cor
-Resposta: C
-
-15. Como a temperatura afeta a fotossíntese?
-A) Tem temperatura ótima para máxima eficiência
-B) Aumenta sempre
-C) Diminui sempre
-D) Não afeta a fotossíntese
+10. Que alteração morfológica acontece no arminho devido à variação do número de horas de luz ao longo do ano?
+A) A sua pelagem muda de cor: é castanha no verão e torna-se branca no inverno
+B) O seu corpo passa a produzir escamas impermeáveis
+C) O arminho desenvolve asas para poder migrar para países quentes
+D) O arminho perde as suas patas traseiras durante a estação fria
 Resposta: A
 
-16. O que são animais endotérmicos?
-A) Não se regulam
-B) Mantêm temperatura corporal constante
-C) São de sangue frio
-D) Dependem do ambiente
-Resposta: B
-
-17. Como a temperatura afeta a decomposição?
-A) Não afeta
-B) Aumenta a decomposição em temperaturas moderadas
-C) Diminui sempre
-D) Apenas afeta a fotossíntese
-Resposta: B
-
-18. O que é a zona de letalidade térmica?
-A) Temperaturas que causam morte
-B) Temperaturas de reprodução
-C) Temperaturas ideais
-D) Temperaturas de crescimento
+🌱 IMAGEM: INFLUÊNCIA DA LUZ NAS PLANTAS
+11. O que é o fototropismo nas plantas e em que órgãos é mais visível?
+A) É a reação de orientação do crescimento das plantas em direção à luz, visível nos caules e folhas
+B) É o movimento de fecho das flores durante a noite para evitar os insetos
+C) É o crescimento das plantas em locais sem nenhuma luz, visível nos frutos
+D) É a capacidade de armazenar água em caules carnosos
 Resposta: A
 
-19. Como as plantas toleram o calor?
-A) Perdem folhas
-B) Não toleram
-C) Aumentam transpiração
-D) Transpiração, folhas reduzidas, estômatos fechados
+12. Como se classificam as plantas que, quanto à necessidade de luz, precisam de locais com forte exposição solar (como o girassol)?
+A) Plantas umbrófitas
+B) Plantas hidrófitas
+C) Plantas de dia curto
+D) Plantas heliófilas
 Resposta: D
 
-20. O que é a aclimatação térmica?
-A) Não existe
-B) Mudança instantânea
-C) Ajuste gradual a novas temperaturas
-D) Mudança genética
-Resposta: C
-
-💧 TOPIC: HUMIDADE
-21. Como a humidade afeta os organismos?
-A) Não afeta
-B) Apenas a luz
-C) Influencia a desidratação e respiração
-D) Apenas a temperatura
-Resposta: C
-
-22. O que é a humidade relativa?
-A) Precipitação
-B) Quantidade total de água
-C) Evaporação
-D) Percentagem de vapor de água no ar
-Resposta: D
-
-23. Como os animais se adaptam à seca?
-A) Não se adaptam
-B) Perdem água
-C) Estivação, comportamento noturno, excreção concentrada
-D) Aumentam consumo de água
-Resposta: C
-
-24. O que é a evapotranspiração?
-A) Apenas evaporação
-B) Apenas transpiração
-C) Perda de água por evaporação e transpiração
-D) Precipitação
-Resposta: C
-
-25. Como a humidade afeta as plantas?
-A) Apenas a respiração
-B) Não afeta
-C) Apenas a fotossíntese
-D) Influencia a abertura estomática e transpiração
-Resposta: D
-
-26. O que são xerófitas?
-A) Plantas de floresta
-B) Plantas adaptadas a ambientes secos
-C) Plantas de montanha
-D) Plantas aquáticas
-Resposta: B
-
-27. Como a humidade afeta a decomposição?
-A) Não afeta
-B) Apenas afeta a fotossíntese
-C) Diminui a decomposição
-D) Aumenta a decomposição
-Resposta: D
-
-28. O que é a saturação de vapor?
-A) Condensação
-B) Precipitação
-C) Mínima quantidade
-D) Máxima quantidade de vapor que o ar pode conter
-Resposta: D
-
-29. Como os animais conservam água?
-A) Rins eficientes, comportamento noturno, excreção seca
-B) Aumentam urina
-C) Não conservam
-D) Perdem água
-Resposta: A
-
-30. O que é o ponto de orvalho?
-A) Temperatura ideal
-B) Temperatura em que o ar fica saturado
-C) Temperatura de ebulição
-D) Temperatura de congelamento
-Resposta: B
-
-🧪 TOPIC: pH
-31. O que é o pH?
-A) Medida da acidez ou alcalinidade
-B) Medida da humidade
-C) Medida da temperatura
-D) Medida da luz
-Resposta: A
-
-32. Como o pH afeta os organismos aquáticos?
-A) Apenas a temperatura
-B) Apenas a luz
-C) Não afeta
-D) Influencia a disponibilidade de nutrientes e toxicidade
-Resposta: D
-
-33. O que é a acidificação dos oceanos?
-A) Não existe
-B) Apenas em água doce
-C) Aumento do pH
-D) Diminuição do pH devido ao CO2
-Resposta: D
-
-34. Como as plantas toleram solos ácidos?
-A) Adaptações radiculares, associações micorrízicas
-B) Não toleram
-C) Morrem
-D) Mudam o solo
-Resposta: A
-
-35. O que é o pH neutro?
-A) pH menor que 7
-B) pH igual a 7
-C) pH maior que 7
-D) pH igual a 0
-Resposta: B
-
-36. Como o pH afeta a atividade enzimática?
-A) Apenas afeta a temperatura
-B) Apenas afeta a luz
-C) Cada enzima tem pH ótimo
-D) Não afeta
-Resposta: C
-
-37. O que são solos alcalinos?
-A) Solos com pH maior que 7
-B) Solos neutros
-C) Solos com pH menor que 7
-D) Solos ácidos
-Resposta: A
-
-38. Como o pH afeta a disponibilidade de nutrientes?
-A) Alguns nutrientes são mais disponíveis em certos pH
-B) Não afeta
-C) Apenas afeta a água
-D) Apenas afeta a luz
-Resposta: A
-
-39. O que é a capacidade tampão?
-A) Não existe
-B) Capacidade de resistir a mudanças de pH
-C) Capacidade de mudar pH
-D) Apenas em água
-Resposta: B
-
-40. Como os organismos regulam o pH interno?
-A) Apenas pela alimentação
-B) Não regulam
-C) Apenas pela água
-D) Sistemas tampão, excreção, respiração
-Resposta: D
-
-🧂 TOPIC: SALINIDADE
-41. O que é a salinidade?
-A) Temperatura da água
-B) Profundidade da água
-C) Concentração de sais na água
-D) Concentração de oxigénio
-Resposta: C
-
-42. Como a salinidade afeta os organismos aquáticos?
-A) Influencia a osmorregulação
-B) Não afeta
-C) Apenas a temperatura
-D) Apenas a luz
-Resposta: A
-
-43. O que são eurihalinos?
-A) Organismos de água doce
-B) Organismos terrestres
-C) Organismos marinhos
-D) Organismos que toleram variações de salinidade
-Resposta: D
-
-44. Como as plantas toleram solos salinos?
-A) Não toleram
-B) Mudam o solo
-C) Excreção de sal, acumulação em vacúolos
-D) Morrem
-Resposta: C
-
-45. O que é a osmorregulação?
-A) Controle da concentração de sais
-B) Controle da luz
-C) Controle da humidade
-D) Controle da temperatura
-Resposta: A
-
-46. Como a salinidade afeta a densidade da água?
-A) Apenas afeta a temperatura
-B) Aumenta a densidade
-C) Diminui a densidade
-D) Não afeta
-Resposta: B
-
-47. O que são estenohalinos?
-A) Organismos terrestres
-B) Organismos de água doce
-C) Organismos tolerantes
-D) Organismos que não toleram variações de salinidade
-Resposta: D
-
-48. Como a salinidade afeta a fotossíntese?
-A) Pode inibir em concentrações muito altas
-B) Diminui sempre
-C) Aumenta sempre
-D) Não afeta
-Resposta: A
-
-49. O que é a halocline?
-A) Camada de temperatura
-B) Camada com mudança brusca de salinidade
-C) Camada de oxigénio
-D) Camada de luz
-Resposta: B
-
-50. Como os animais marinhos regulam a salinidade?
-A) Apenas pela respiração
-B) Apenas pela pele
-C) Não regulam
-D) Rins, brânquias, glândulas de sal
-Resposta: D
-
-💨 TOPIC: OXIGÉNIO
-51. Como o oxigénio dissolvido afeta os organismos aquáticos?
-A) Apenas a fotossíntese
-B) Essencial para respiração
-C) Apenas a temperatura
-D) Não afeta
-Resposta: B
-
-52. O que é a hipoxia?
-A) Baixa concentração de oxigénio
-B) Ausência de oxigénio
-C) Alta concentração de oxigénio
-D) Excesso de oxigénio
-Resposta: A
-
-53. Como a temperatura afeta o oxigénio dissolvido?
-A) Aumenta sempre
-B) Não afeta
-C) Água mais quente contém menos oxigénio
-D) Água mais quente contém mais oxigénio
-Resposta: C
-
-54. O que é a eutrofização?
-A) Excesso de nutrientes causando baixa oxigénio
-B) Aumento de oxigénio
-C) Não existe
-D) Falta de nutrientes
-Resposta: A
-
-55. Como os organismos toleram baixo oxigénio?
-A) Aumentam consumo
-B) Respiração anaeróbica, comportamentos especiais
-C) Morrem
-D) Não toleram
-Resposta: B
-
-56. O que é a anoxia?
-A) Baixa oxigénio
-B) Excesso de oxigénio
-C) Ausência de oxigénio
-D) Alta oxigénio
-Resposta: C
-
-57. Como a fotossíntese afeta o oxigénio?
-A) Produz oxigénio
-B) Não afeta
-C) Consome oxigénio
-D) Apenas a temperatura
-Resposta: A
-
-58. O que é a estratificação térmica?
-A) Camadas de água com diferentes temperaturas
-B) Camadas de luz
-C) Camadas de salinidade
-D) Camadas de oxigénio
-Resposta: A
-
-59. Como a decomposição afeta o oxigénio?
-A) Consome oxigénio
-B) Produz oxigénio
-C) Apenas a temperatura
-D) Não afeta
-Resposta: A
-
-60. O que são zonas mortas?
-A) Áreas de reprodução
-B) Áreas com muito baixo oxigénio
-C) Áreas com muito oxigénio
-D) Áreas sem vida
-Resposta: B
-
-🛡️ TOPIC: PROTEÇÃO E ADAPTAÇÃO
-61. O que é a adaptação?
-A) Mudança genética aleatória
-B) Não existe
-C) Mudança instantânea
-D) Característica que aumenta sobrevivência
-Resposta: D
-
-62. Como os organismos se protegem da radiação UV?
-A) Aumentam exposição
-B) Pigmentos, comportamentos, estruturas físicas
-C) Morrem
-D) Não se protegem
-Resposta: B
-
-63. O que é a camuflagem?
-A) Mudança de cor aleatória
-B) Adaptação para atacar
-C) Adaptação para se confundir com o ambiente
-D) Não existe
-Resposta: C
-
-64. Como os animais se protegem de predadores?
-A) Atacam sempre
-B) Fugem sempre
-C) Não se protegem
-D) Camuflagem, veneno, comportamentos de defesa
-Resposta: D
-
-65. O que é o mimetismo?
-A) Não existe
-B) Imitação de outro organismo
-C) Mudança de cor
-D) Camuflagem
-Resposta: B
-
-66. Como as plantas se protegem de herbívoros?
-A) Morrem
-B) Não se protegem
-C) Aumentam palatabilidade
-D) Espinhos, toxinas, folhas duras
-Resposta: D
-
-67. O que é a hibernação?
-A) Não existe
-B) Morte temporária
-C) Estado de dormência em condições desfavoráveis
-D) Sono profundo
-Resposta: C
-
-68. Como os organismos se protegem do frio?
-A) Perdem proteção
-B) Não se protegem
-C) Aumentam atividade
-D) Pelagem, gordura, comportamentos
-Resposta: D
-
-69. O que é a estivação?
-A) Morte temporária
-B) Não existe
-C) Dormência em condições secas/quentes
-D) Dormência no frio
-Resposta: C
-
-70. Como os organismos se protegem da desidratação?
-A) Aumentam perda de água
-B) Morrem
-C) Comportamentos, estruturas, fisiologia
-D) Não se protegem
-Resposta: C
-
-🌍 TOPIC: DISTRIBUIÇÃO DOS SERES VIVOS
-71. O que é a distribuição dos seres vivos?
-A) Tipo de alimentação
-B) Número de indivíduos
-C) Padrão de onde as espécies ocorrem geograficamente
-D) Idade dos organismos
-Resposta: C
-
-72. Como os fatores abióticos influenciam a distribuição?
-A) Não influenciam
-B) Apenas afetam a reprodução
-C) Apenas afetam o tamanho
-D) Determinam onde as espécies podem sobreviver
-Resposta: D
-
-73. O que é o limite de distribuição?
-A) Idade máxima
-B) Fronteira geográfica onde a espécie ocorre
-C) Tamanho máximo
-D) Número máximo de indivíduos
-Resposta: B
-
-74. Como a temperatura afeta a distribuição?
-A) Apenas afeta a reprodução
-B) Apenas afeta o tamanho
-C) Não afeta
-D) Limita a distribuição por zonas térmicas
-Resposta: D
-
-75. O que é a zona de tolerância?
-A) Zona ideal
-B) Zona de reprodução
-C) Zona de morte
-D) Intervalo de condições onde o organismo sobrevive
-Resposta: D
-
-76. Como a altitude afeta a distribuição?
-A) Muda a temperatura e pressão, alterando zonas
-B) Não afeta
-C) Apenas afeta a luz
-D) Apenas afeta a humidade
-Resposta: A
-
-77. O que é a latitude?
-A) Longitude
-B) Altitude
-C) Profundidade
-D) Distância do equador
-Resposta: D
-
-78. Como a latitude afeta a distribuição?
-A) Influencia temperatura e luz
-B) Não afeta
-C) Apenas a humidade
-D) Apenas o vento
-Resposta: A
-
-79. O que é a distribuição contínua?
-A) Espécie extinta
-B) Espécie ocorre sem grandes barreiras
-C) Espécie isolada
-D) Espécie rara
-Resposta: B
-
-80. Como as barreiras geográficas afetam a distribuição?
-A) Limitam a dispersão e isolam populações
-B) Não têm efeito
-C) Não afetam
-D) Aumentam dispersão
-Resposta: A
-
-🥚 TOPIC: REPRODUÇÃO
-81. Como a temperatura afeta a reprodução?
-A) Apenas afeta a alimentação
-B) Apenas afeta o crescimento
-C) Não afeta
-D) Temperaturas específicas necessárias para reprodução
-Resposta: D
-
-82. O que é a reprodução sexuada?
-A) Fusão de gâmetas de dois progenitores
-B) Reprodução assexuada
-C) Não existe
-D) Divisão de um organismo
-Resposta: A
-
-83. Como a luz afeta a reprodução?
-A) Apenas a fotossíntese
-B) Influencia ciclos reprodutivos em muitos organismos
-C) Apenas a temperatura
-D) Não afeta
-Resposta: B
-
-84. O que é a reprodução assexuada?
-A) Produção de descendentes sem fusão de gâmetas
-B) Fusão de gâmetas
-C) Reprodução sexuada
-D) Não existe
-Resposta: A
-
-85. Como a fotoperiodicidade afeta a reprodução?
-A) Apenas a temperatura
-B) Estimula ou inibe reprodução dependendo da duração da luz
-C) Não afeta
-D) Apenas a fotossíntese
-Resposta: B
-
-86. O que é a época de reprodução?
-A) Período do ano em que a reprodução ocorre
-B) Período de crescimento
-C) Período de hibernação
-D) Período de migração
-Resposta: A
-
-87. Como a humidade afeta a reprodução?
-A) Necessária para desenvolvimento de ovos e larvas em muitas espécies
-B) Apenas a fotossíntese
-C) Apenas a temperatura
-D) Não afeta
-Resposta: A
-
-88. O que é a fertilidade?
-A) Capacidade de se alimentar
-B) Capacidade de crescer
-C) Capacidade de se mover
-D) Capacidade de produzir descendentes
-Resposta: D
-
-89. Como a salinidade afeta a reprodução?
-A) Apenas o crescimento
-B) Não afeta
-C) Apenas a alimentação
-D) Pode inibir reprodução em concentrações extremas
-Resposta: D
-
-90. O que é a maturação sexual?
-A) Idade de crescimento
-B) Idade de morte
-C) Idade máxima
-D) Idade em que o organismo pode reproduzir
-Resposta: D
-
-🧬 TOPIC: ESTRATÉGIAS REPRODUTIVAS
-91. O que é a estratégia r?
-A) Poucos descendentes com muito cuidado
-B) Não existe
-C) Estratégia de migração
-D) Muitos descendentes com pouco cuidado parental
-Resposta: D
-
-92. Como o pH afeta a reprodução?
-A) Pode afetar viabilidade de gâmetas e desenvolvimento
-B) Apenas a fotossíntese
-C) Apenas a temperatura
-D) Não afeta
-Resposta: A
-
-93. O que é a estratégia K?
-A) Muitos descendentes com pouco cuidado
-B) Estratégia de hibernação
-C) Não existe
-D) Poucos descendentes com muito cuidado parental
-Resposta: D
-
-94. Como a disponibilidade de recursos afeta a reprodução?
-A) Não afeta
-B) Apenas a alimentação
-C) Apenas o crescimento
-D) Influencia momento e sucesso reprodutivo
-Resposta: D
-
-95. O que é a oviparidade?
+🧬 IMAGEM: REPRODUÇÃO DOS SERES VIVOS
+13. Como se chama a união do gâmeta masculino com o gâmeta feminino?
 A) Reprodução assexuada
-B) Desenvolvimento interno
-C) Não existe
-D) Postura de ovos que se desenvolvem externamente
+B) Fecundação externa
+C) Metamorfose
+D) Fecundação
 Resposta: D
 
-96. Como a competição afeta a reprodução?
-A) Apenas o crescimento
-B) Pode limitar acesso a parceiros e recursos
-C) Não afeta
-D) Aumenta reprodução
-Resposta: B
-
-97. O que é a viviparidade?
-A) Postura de ovos
-B) Não existe
-C) Desenvolvimento de embriões dentro do corpo materno
-D) Reprodução assexuada
+14. O caracol de jardim possui órgãos reprodutores masculinos e femininos no mesmo indivíduo. Que nome se dá a estes animais?
+A) Animais vivíparos
+B) Animais com desenvolvimento direto
+C) Animais hermafroditas
+D) Animais unissexuais
 Resposta: C
 
-98. Como a predação afeta a reprodução?
-A) Apenas o crescimento
-B) Aumenta reprodução
-C) Não afeta
-D) Pode reduzir sucesso reprodutivo
-Resposta: D
+🐣 IMAGEM: DESENVOLVIMENTO EMBRIONÁRIO
+15. Nos animais vivíparos, onde ocorre o desenvolvimento do embrião e através de que estruturas ele recebe alimento e oxigénio da mãe?
+A) Ocorre num ovo que permanece guardado no interior do corpo da fêmea
+B) Ocorre no útero, através da placenta e do cordão umbilical
+C) Ocorre na água, através de fecundação externa
+D) Ocorre dentro de um ovo, através da gema e da clara
+Resposta: B
 
-99. O que é a ovoviviparidade?
-A) Reprodução assexuada
-B) Não existe
-C) Ovos retidos no corpo até eclosão
-D) Postura de ovos externos
+16. O que acontece no desenvolvimento dos animais ovovivíparos?
+A) O embrião desenvolve-se sem nenhuma casca protetora ou substância nutritiva
+B) O desenvolvimento do embrião ocorre dentro de um ovo e fora do corpo da fêmea por incubação
+C) O desenvolvimento do embrião ocorre dentro de um ovo, mas este permanece no interior do corpo da fêmea
+D) Os filhotes nascem diretamente do corpo da mãe sem que tenha existido qualquer ovo
 Resposta: C
 
-100. Como a densidade populacional afeta a reprodução?
-A) Pode inibir ou estimular dependendo da espécie
-B) Não afeta
-C) Apenas o crescimento
-D) Apenas a alimentação
+🦋 IMAGEM: METAMORFOSES E CRESCIMENTO
+17. O que caracteriza os animais que têm um desenvolvimento indireto?
+A) Nascem com uma forma muito diferente da dos adultos e passam por metamorfoses
+B) Nascem do interior de um ovo que fica fora do corpo da mãe
+C) Nascem com uma forma semelhante à dos adultos, mudando apenas de tamanho
+D) Alimentam-se de leite materno logo após o nascimento
 Resposta: A
 
-🔄 TOPIC: CICLOS REPRODUTIVOS
-101. O que é o ciclo reprodutivo?
-A) Sequência de eventos reprodutivos
-B) Ciclo de morte
-C) Ciclo de crescimento
-D) Ciclo de alimentação
+18. Quais são as etapas consecutivas da metamorfose de uma borboleta?
+A) Ovo, Lagarta (larva), Crisálida (pupa) e Borboleta (adulto)
+B) Gâmeta, Fecundação, Útero e Recém-nascido
+C) Ovo, Girino com cauda, Girino com patas e Rã adulta
+D) Ovo, Casca, Eclosão e Cria
 Resposta: A
 
-102. Como a altitude afeta a reprodução?
-A) Não afeta
-B) Pode alterar timing reprodutivo devido a temperatura
-C) Apenas a salinidade
-D) Apenas a fotossíntese
+🦅 IMAGEM: COMPORTAMENTOS E BIODIVERSIDADE
+19. De acordo com o texto sobre a migração das aves, que fatores ambientais iniciam a reação de migrar?
+A) A reação à poluição do solo e o aumento da caça excessiva
+B) A reação ao meio, como a temperatura baixa ou a falta de água e/ou alimento
+C) O aparecimento de predadores com camuflagem por homotipia
+D) O fototropismo positivo das raízes das árvores envolventes
 Resposta: B
 
-103. O que é a diapausa?
-A) Morte
-B) Aumenta desenvolvimento
-C) Suspende desenvolvimento em condições desfavoráveis
-D) Não existe
+20. Em Portugal, quais são algumas das espécies ameaçadas mencionadas no texto sobre a proteção da biodiversidade?
+A) A borboleta monarca, a abelha e o escorpião-do-deserto
+B) O urso-polar, o pinguim e o gnu
+C) A cobra, a manta e o sapo-do-suriname
+D) O lince-ibérico, o lobo-ibérico, a lontra e o camaleão
+Resposta: D
+
+
+🌍 IMAGEM: FATORES ABIÓTICOS E MEIO AMBIENTE
+21. De acordo com o primeiro esquema, o que constitui o chamado "Meio Ambiente"?
+A) Apenas as plantas heliófitas
+B) O conjunto de todos os fatores abióticos
+C) Apenas os animais que fazem estivação
+D) Os gâmetas masculinos e femininos
+Resposta: B
+
+22. Como se designa a ciência que estuda as relações dos seres vivos entre si e com o meio ambiente?
+A) Astronomia
+B) Geologia
+C) Paleontologia
+D) Ecologia
+Resposta: D
+
+23. O que acontece à atividade vital de um ser vivo quando a temperatura ambiente atinge o valor "Ótimo"?
+A) É máxima
+B) É mínima
+C) É nula
+D) É destrutiva
+Resposta: A
+
+24. Abaixo de que valor de temperatura a atividade vital de um organismo cessa completamente por ser demasiado frio?
+A) Temperatura máxima
+B) Temperatura letal inferior
+C) Temperatura ótima
+D) Temperatura letal superior
+Resposta: B
+
+25. Como varia a temperatura corporal dos animais chamados "Ectotérmicos"?
+A) Mantém-se sempre a 37 °C independentemente do local
+B) É constante e independente do exterior
+C) É controlada exclusivamente pela placenta
+D) Varia com a temperatura do meio ambiente
+Resposta: D
+
+26. Que comportamento adota a lagartixa quando necessita de aumentar a sua temperatura corporal?
+A) Mergulha permanentemente na água
+B) Entra em hibernação profunda
+C) Esconde-se num buraco escuro
+D) Expõe-se ao Sol (procura calor)
+Resposta: D
+
+27. Que adaptação morfológica ajuda os animais de climas frios (como a raposa-árctica) a evitar perdas de calor?
+A) Orelhas muito compridas e largas
+B) Extremidades do corpo (orelhas e focinho) curtas e pelagem densa
+C) Pele muito fina e sem gordura
+D) Ausência total de pelos no corpo
+Resposta: B
+
+28. Como se adaptam morfològicamente os animais de climas muito quentes (como a raposa do deserto) para facilitar a perda de calor?
+A) Desenvolvem uma camada espessa de gordura sob a pele
+B) Têm orelhas compridas e grandes superfícies corporais expostas
+C) Reduzem o tamanho das orelhas ao mínimo possível
+D) Mudam a cor do pelo para branco brilhante
+Resposta: B
+
+29. Qual é o principal comportamento de defesa do urso e da marmota durante o inverno rigoroso?
+A) Migração para mares profundos
+B) Estivação
+C) Hibernação
+D) Desenvolvimento indireto
 Resposta: C
 
-104. Como a pressão atmosférica afeta a reprodução?
-A) Apenas a fotossíntese
-B) Não afeta
-C) Pode influenciar em organismos aquáticos
-D) Apenas a temperatura
+30. Qual é a percentagem aproximada de água que constitui o corpo da maioria dos seres vivos?
+A) Cerca de 60 a 90%
+B) Cerca de 10%
+C) Exatamente 100%
+D) Cerca de 20 a 30%
+Resposta: A
+
+💧 IMAGEM: INFLUÊNCIA DA ÁGUA
+31. Que nome se dá aos seres vivos que necessitam de viver permanentemente dentro de água (meio aquático)?
+A) Xerófilos
+B) Higrófilos
+C) Hidrófilos ou aquáticos
+D) Mesófilos
+Resposta: A
+
+32. Respostas: B
+Resposta: None
+
+33. Onde se desenvolvem e vivem os seres vivos classificados como "Higrófilos"?
+A) Exclusivamente no topo de montanhas sem água
+B) No interior de vulcões ativos
+C) Em meios muito húmidos e sombrios
+D) Em locais muito secos e com Sol direto
 Resposta: C
 
-105. O que é a metamorfose?
-A) Não existe
-B) Morte
-C) Transformação drástica durante desenvolvimento
-D) Crescimento normal
+34. Qual é o habitat típico dos seres vivos chamados "Mesófilos"?
+A) Pântanos permanentes
+B) Desertos de areia sem precipitação
+C) Regiões com necessidades moderadas de água
+D) Oceanos profundos
 Resposta: C
 
-106. Como a radiação UV afeta a reprodução?
-A) Pode causar danos ao DNA e afetar reprodução
-B) Apenas o crescimento
-C) Não afeta
-D) Aumenta reprodução
+35. Como se adaptam os animais xerófilos (como o escorpião ou o camelo) à falta de água no deserto?
+A) Têm revestimentos impermeáveis (como carapaças ou escamas) e reduzem as perdas na urina
+B) Eliminam toda a água do corpo através da pele
+C) Produzem suor abundante continuamente
+D) Bebem água salgada do mar todos os dias
 Resposta: A
 
-107. O que é o hermafroditismo?
-A) Reprodução assexuada
-B) Organismo sem sexo
-C) Não existe
-D) Organismo com ambos os sexos
-Resposta: D
-
-108. Como a poluição afeta a reprodução?
-A) Apenas o crescimento
-B) Não afeta
-C) Pode causar infertilidade e defeitos
-D) Aumenta reprodução
+36. Que caraterística radicular possuem muitas plantas xerófitas para captar água em solos áridos?
+A) Não possuem qualquer tipo de raiz
+B) Raízes que crescem apenas no ar sem tocar no solo
+C) Raízes muito longas e profundas ou muito ramificadas
+D) Raízes muito curtas e superficiais que secam depressa
 Resposta: C
 
-109. O que é a partenogénese?
-A) Não existe
-B) Reprodução sexuada
-C) Desenvolvimento de ovos não fertilizados
-D) Fertilização normal
+☀️ IMAGEM: INFLUÊNCIA DA LUZ NOS ANIMAIS
+37. Para que serve o caule carnoso ou "suculento" em certas plantas do deserto?
+A) Para atrair insetos lucífugos
+B) Para realizar apenas a reprodução sexuada
+C) Para armazenar água como reserva
+D) Para fixar a planta às rochas mais duras
 Resposta: C
 
-110. Como as mudanças climáticas afetam a reprodução?
-A) Aumentam reprodução
-B) Não afetam
-C) Des sincronizam ciclos reprodutivos
-D) Apenas o crescimento
+38. O que significa o termo "Fototactismo"?
+A) A capacidade das plantas de produzir sementes
+B) O nascimento de animais vivíparos no escuro
+C) A reação de deslocamento dos animais em relação à fonte de luz
+D) A perda de folhas das árvores no outono
 Resposta: C
 
-🌡️ TOPIC: TEMPERATURA - DETALHES
-111. O que é a temperatura ótima?
-A) Temperatura mínima
-B) Temperatura média
-C) Temperatura onde o organismo funciona melhor
-D) Temperatura máxima
+39. Se um animal se desloca e é atraído em direção à luz, diz-se que apresenta:
+A) Fototropismo negativo
+B) Fototactismo negativo
+C) Estivação estival
+D) Fototactismo positivo
+Resposta: D
+
+40. Que exemplo de inseto é mencionado no texto por ser fortemente atraído pela luz (fototactismo positivo)?
+A) O bicho-pau camuflado
+B) A minhoca da terra
+C) A borboleta noturna (chamada popularmente de mariposa)
+D) O caracol de jardim
 Resposta: C
 
-112. Como a temperatura afeta a taxa metabólica?
-A) Diminui sempre
-B) Aumenta até um limite, depois diminui
-C) Aumenta sempre
-D) Não afeta
-Resposta: B
-
-113. O que é a lei de Bergmann?
-A) Animais de mesma espécie são maiores em climas frios
-B) Não existe
-C) Animais são maiores no calor
-D) Animais são maiores no equador
-Resposta: A
-
-114. Como a temperatura afeta a fotossíntese?
-A) Tem temperatura ótima, diminui acima ou abaixo
-B) Aumenta sempre
-C) Diminui sempre
-D) Não afeta
-Resposta: A
-
-115. O que é a lei de Allen?
-A) Não existe
-B) Animais são maiores no frio
-C) Animais têm appendices maiores no frio
-D) Animais de climas frios têm appendices menores
-Resposta: D
-
-116. Como a temperatura afeta a germinação?
-A) Não afeta
-B) Temperatura ótima para germinação
-C) Apenas afeta a fotossíntese
-D) Apenas afeta a respiração
-Resposta: B
-
-117. O que é a dormência térmica?
-A) Estado de inatividade devido a temperaturas extremas
-B) Reprodução
-C) Morte
-D) Sono profundo
-Resposta: A
-
-118. Como a temperatura afeta a respiração?
-A) Diminui sempre
-B) Aumenta a taxa respiratória até um limite
-C) Apenas afeta a fotossíntese
-D) Não afeta
-Resposta: B
-
-119. O que é a vernalização?
-A) Exposição ao frio para induzir floração
-B) Não existe
-C) Exposição à luz
-D) Exposição ao calor
-Resposta: A
-
-120. Como a temperatura afeta a enzimática?
-A) Apenas afeta a fotossíntese
-B) Apenas afeta a respiração
-C) Não afeta
-D) Cada enzima tem temperatura ótima
-Resposta: D
-
-💡 TOPIC: LUZ - DETALHES
-121. O que é a fotossíntese?
-A) Processo de respiração
-B) Processo de digestão
-C) Processo de excreção
-D) Processo de converter luz em energia química
-Resposta: D
-
-122. Como a intensidade luminosa afeta a fotossíntese?
-A) Não afeta
-B) Aumenta até saturação, depois estabiliza
-C) Aumenta sempre
-D) Diminui sempre
-Resposta: B
-
-123. O que é a fotossíntese C4?
-A) Fotossíntese no escuro
-B) Fotossíntese normal
-C) Não existe
-D) Adaptação para altas temperaturas e luz intensa
-Resposta: D
-
-124. Como a qualidade da luz afeta as plantas?
-A) Não afeta
-B) Diferentes comprimentos de onda têm efeitos diferentes
-C) Apenas a intensidade importa
-D) Apenas a duração
-Resposta: B
-
-125. O que é a fotossíntese CAM?
-A) Não existe
-B) Fotossíntese normal
-C) Fotossíntese aquática
-D) Adaptação para ambientes secos
-Resposta: D
-
-126. Como a duração da luz afeta as plantas?
-A) Apenas a intensidade
-B) Apenas a qualidade
-C) Influencia fotoperiodicidade e floração
-D) Não afeta
+41. Que tipo de fototactismo apresenta a minhoca ao fugir da luz solar e enterrar-se no solo?
+A) Não apresenta qualquer reação
+B) Fototactismo positivo
+C) Fototactismo negativo
+D) Fototactismo neutro
 Resposta: C
 
-127. O que é o espectro de luz?
-A) Intensidade da luz
-B) Cor da luz
-C) Duração da luz
-D) Distribuição de comprimentos de onda
-Resposta: D
-
-128. Como a luz azul afeta as plantas?
-A) Não afeta
-B) Promove crescimento vegetativo
-C) Aumenta fotossíntese
-D) Promove floração
-Resposta: B
-
-129. O que é a luz vermelha?
-A) Promove floração e alongamento
-B) Aumenta fotossíntese
-C) Não afeta
-D) Promove crescimento vegetativo
-Resposta: A
-
-130. Como a luz afeta os animais?
-A) Influencia ritmos circadianos e comportamento
-B) Não afeta
-C) Apenas a visão
-D) Apenas a temperatura
-Resposta: A
-
-💧 TOPIC: HUMIDADE - DETALHES
-131. O que é a humidade absoluta?
-A) Percentagem de saturação
-B) Quantidade de vapor de água no ar
-C) Precipitação
-D) Evaporação
-Resposta: B
-
-132. Como a humidade afeta a transpiração?
-A) Apenas afeta a fotossíntese
-B) Aumenta transpiração
-C) Alta humidade reduz transpiração
-D) Não afeta
+42. Como se classificam os animais cuja atividade principal (caça, alimentação) se realiza durante as horas de sol?
+A) Animais noturnos
+B) Animais esquiófilos
+C) Animais diurnos
+D) Animais lucífugos
 Resposta: C
 
-133. O que é a humidade do solo?
-A) Precipitação
-B) Quantidade de água no solo
-C) Evaporação
-D) Humidade do ar
+43. Animais como o mocho, o morcego e a fura-pastos realizam as suas atividades à noite. Eles são:
+A) Plantas umbrófitas
+B) Animais noturnos
+C) Animais heliófilos
+D) Animais diurnos
 Resposta: B
 
-134. Como a humidade afeta a decomposição?
-A) Apenas afeta a fotossíntese
-B) Diminui a decomposição
-C) Não afeta
-D) Aumenta a decomposição
-Resposta: D
+🌱 IMAGEM: INFLUÊNCIA DA LUZ NAS PLANTAS
+44. O que acontece à coloração da plumagem da ptármiga (uma ave) quando chega o inverno, devido à variação da luz?
+A) Perde todas as penas e fica nua
+B) Muda para branco
+C) Torna-se verde-escura
+D) Fica totalmente preta
+Resposta: B
 
-135. O que é a capacidade de campo?
-A) Precipitação
-B) Evaporação
-C) Máxima água que o solo retém
-D) Mínima água
+45. Que nome recebe o fenómeno de orientação do crescimento de órgãos das plantas (como o caule) direcionando-se para a luz?
+A) Fototropismo
+B) Fecundação interna
+C) Mimetismo morfológico
+D) Fototactismo positivo
+Resposta: A
+
+46. O caule das plantas cresce em direção à luz. Que tipo de fototropismo possui?
+A) Fototactismo indireto
+B) Fototropismo negativo
+C) Fototropismo positivo
+D) Fototropismo nulo
 Resposta: C
 
-136. Como a humidade afeta os animais?
-A) Apenas a digestão
-B) Apenas a respiração
-C) Não afeta
-D) Influencia desidratação e termorregulação
-Resposta: D
-
-137. O que é o ponto de murcha?
-A) Precipitação
-B) Evaporação
-C) Humidade máxima
-D) Humidade mínima para plantas sobreviverem
-Resposta: D
-
-138. Como a humidade afeta a germinação?
-A) Apenas afeta a respiração
-B) Necessária para germinação
-C) Não afeta
-D) Apenas afeta a fotossíntese
-Resposta: B
-
-139. O que é a condensação?
-A) Transformação de líquido em vapor
-B) Transformação de vapor em líquido
-C) Evaporação
-D) Precipitação
-Resposta: B
-
-140. Como a humidade afeta a dispersão de esporos?
-A) Não afeta
-B) Alta humidade favorece dispersão
-C) Apenas afeta a fotossíntese
-D) Baixa humidade favorece
-Resposta: B
-
-🧪 TOPIC: pH - DETALHES
-141. O que é a acidez?
-A) pH igual a 0
-B) pH igual a 7
-C) pH maior que 7
-D) pH menor que 7
-Resposta: D
-
-142. Como o pH afeta a disponibilidade de nutrientes?
-A) Apenas afeta a luz
-B) Alguns nutrientes ficam indisponíveis em certos pH
-C) Não afeta
-D) Apenas afeta a água
-Resposta: B
-
-143. O que é a alcalinidade?
-A) pH igual a 14
-B) pH menor que 7
-C) pH igual a 7
-D) pH maior que 7
-Resposta: D
-
-144. Como o pH afeta a toxicidade de metais?
-A) Não afeta
-B) Mais tóxicos em pH alto
-C) Apenas em pH neutro
-D) Metais são mais tóxicos em pH baixo
-Resposta: D
-
-145. O que é a calagem?
-A) Adição de água
-B) Adição de calcário para corrigir acidez
-C) Adição de ácido
-D) Não existe
-Resposta: B
-
-146. Como o pH afeta as enzimas?
-A) Cada enzima tem pH ótimo
-B) Não afeta
-C) Apenas afeta a luz
-D) Apenas afeta a temperatura
+47. As raízes das plantas crescem geralmente no sentido oposto ao da luz (para o interior da terra). Elas têm:
+A) Fototropismo negativo
+B) Fototactismo positivo
+C) Heliatismo direto
+D) Fototropismo positivo
 Resposta: A
 
-147. O que é a acidificação do solo?
-A) Aumento do pH
-B) Apenas em água
-C) Não existe
-D) Diminuição do pH do solo
-Resposta: D
-
-148. Como o pH afeta a nitrificação?
-A) Apenas em pH alcalino
-B) Ocorre melhor em pH neutro
-C) Não afeta
-D) Ocorre melhor em pH ácido
+48. Como se designam as plantas que se desenvolvem melhor em locais sombrios ou protegidos do sol direto?
+A) Plantas heliófilas
+B) Plantas umbrófitas ou esquiófilas
+C) Plantas hidrófilas
+D) Plantas xerófitas
 Resposta: B
 
-149. O que é a lixiviação?
-A) Adição de nutrientes
-B) Remoção de nutrientes por água
-C) Não existe
-D) Apenas em solo seco
-Resposta: B
-
-150. Como o pH afeta a microbiota do solo?
-A) Apenas afeta animais
-B) Apenas afeta plantas
-C) Diferentes pH favorecem diferentes microorganismos
-D) Não afeta
+🧬 IMAGEM: REPRODUÇÃO E BIODIVERSIDADE
+49. Que exemplo de planta umbrófita (de sombra) é ilustrado na imagem do manual?
+A) O pinheiro-bravo
+B) O cato do deserto
+C) O feto
+D) O girassol
 Resposta: C
 
-🧂 TOPIC: SALINIDADE - DETALHES
-151. O que é a osmose?
-A) Movimento de nutrientes
-B) Movimento de oxigénio
-C) Movimento de água através de membrana semipermeável
-D) Movimento de sais
-Resposta: C
-
-152. Como a salinidade afeta a osmose?
-A) Não afeta
-B) Baixa salinidade causa desidratação
-C) Apenas afeta a temperatura
-D) Alta salinidade causa desidratação
+50. Quais são as duas grandes formas ou tipos de reprodução indicadas no livro?
+A) Reprodução interna e reprodução externa
+B) Reprodução ovípara e reprodução vivípara
+C) Reprodução direta e reprodução indireta
+D) Reprodução sexuada e reprodução assexuada
 Resposta: D
 
-153. O que são osmoconformadores?
-A) Organismos que ajustam salinidade interna ao ambiente
-B) Ajustam apenas temperatura
-C) Não ajustam
-D) Ajustam apenas pH
-Resposta: A
-
-154. Como a salinidade afeta a fotossíntese?
-A) Pode inibir em concentrações muito altas
-B) Não afeta
-C) Aumenta sempre
-D) Diminui sempre
-Resposta: A
-
-155. O que são osmorreguladores?
-A) Ajustam apenas temperatura
-B) Não regulam
-C) Organismos que mantêm salinidade interna constante
-D) Ajustam ao ambiente
+51. Qual é a principal característica da reprodução sexuada?
+A) É realizada por um só indivíduo sem qualquer união de células
+B) Dá-se apenas em plantas xerófitas no verão
+C) Ocorre com a intervenção de células sexuais (gâmetas) de sexos diferentes
+D) Ocorre sempre de forma assexuada na água
 Resposta: C
 
-156. Como a salinidade afeta a densidade da água?
-A) Diminui a densidade
-B) Aumenta a densidade
-C) Apenas afeta temperatura
-D) Não afeta
+52. Como se chama o gâmeta produzido pelo sistema reprodutor masculino?
+A) Útero
+B) Óvulo
+C) Espermatozoide
+D) Placenta
+Resposta: C
+
+53. Como se designa o gâmeta produzido pelo sistema reprodutor feminino?
+A) Óvulo
+B) Cordão umbilical
+C) Espermatozoide
+D) Pólen
+Resposta: A
+
+54. Onde ocorre a "Fecundação Interna"?
+A) Dentro de uma crisálida de borboleta
+B) Na água, fora do corpo dos animais
+C) No interior do corpo de um dos parentes (geralmente da fêmea)
+D) No solo húmido da floresta
+Resposta: C
+
+55. Em que ambiente ocorre maioritariamente a "Fecundação Externa", como se vê nos peixes?
+A) No ar seco
+B) Dentro do útero materno
+C) Dentro de ninhos construídos na rocha
+D) No meio aquático (fora do corpo)
+Resposta: D
+
+🐣 IMAGEM: DESENVOLVIMENTO EMBRIONÁRIO
+56. Animais que apresentam os sexos separados em indivíduos diferentes (um macho e uma fêmea) são chamados de:
+A) Unissexuais
+B) Hermafroditas
+C) Assexuados
+D) Hidrófilos
+Resposta: A
+
+57. Como se classificam os animais cujo embrião se desenvolve dentro de um ovo, mas fora do corpo materno?
+A) Animais vivíparos
+B) Animais ovovivíparos
+C) Animais ovíparos
+D) Animais indiretos
+Resposta: C
+
+58. Que substâncias contidas no interior do ovo servem para nutrir o embrião de um animal ovíparo?
+A) A água salgada do mar envolvente
+B) O leite produzido pelas glândulas da mãe
+C) O oxigénio do útero
+D) As substâncias nutritivas da clara e da gema
+Resposta: D
+
+59. Qual é a característica do nascimento dos animais ovíparos?
+A) Saem do ovo através da eclosão (rompimento da casca)
+B) Nascem através de metamorfose indireta na placenta
+C) Saem do cordão umbilical cortado
+D) Nascem diretamente do útero por parto
+Resposta: A
+
+60. Qual das seguintes espécies é dada na imagem como exemplo de animal ovovivíparo?
+A) O cão
+B) O sapo-do-suriname
+C) A rã-verde
+D) A galinha
 Resposta: B
 
-157. O que é a halofobia?
-A) Tolerância a alta salinidade
-B) Intolerância a alta salinidade
-C) Apenas em plantas
-D) Não existe
+🦋 IMAGEM: METAMORFOSES E CRESCIMENTO
+61. O que fazem as mães dos animais mamíferos (vivíparos) logo após o nascimento das crias?
+A) Realizam a fecundação externa das crias
+B) Transformam-se em larvas ou girinos
+C) Abandonam os ovos no ninho
+D) Alimentam as crias com o leite das suas glândulas mamárias (amamentação)
+Resposta: D
+
+62. Quando um animal nasce já com uma forma semelhante à do estado adulto, diz-se que o seu desenvolvimento é:
+A) Desenvolvimento assexuado
+B) Desenvolvimento por crisálida
+C) Desenvolvimento indireto
+D) Desenvolvimento direto
+Resposta: D
+
+63. O que acontece durante o "Desenvolvimento Indireto" de um animal?
+A) O embrião morre antes de sair do ovo da fêmea
+B) O animal nasce igual ao adulto e apenas aumenta de volume
+C) O animal necessita de luz solar direta para mudar de pelo
+D) O animal passa por transformações profundas chamadas metamorfoses
+Resposta: D
+
+64. Como se chama a forma jovem e livre que nasce do ovo de um animal com desenvolvimento indireto (como a lagarta ou o girino)?
+A) Adulto
+B) Larva
+C) Progenitor
+D) Gâmeta
 Resposta: B
 
-158. Como a salinidade afeta a distribuição?
-A) Não afeta
-B) Aumenta distribuição
-C) Limita distribuição de espécies sensíveis
-D) Apenas afeta tamanho
+65. Onde vivem e como respiram os girinos (larvas das rãs), segundo a imagem do ciclo de vida do anfíbio?
+A) Vivem na água e respiram por brânquias
+B) Vivem dentro do útero da rã mãe
+C) Vivem em terra e respiram por pulmões
+D) Vivem nas árvores e não respiram
+Resposta: A
+
+66. Que órgãos desenvolve o girino para passar a viver em ambiente terrestre como uma rã adulta?
+A) Desenvolve patas e pulmões (perdendo a cauda)
+B) Desenvolve asas e antenas compridas
+C) Desenvolve uma placenta e cordão umbilical
+D) Desenvolve uma carapaça grossa e espinhos
+Resposta: A
+
+🛡️ IMAGEM: AMEAÇAS E PROTEÇÃO DA BIODIVERSIDADE
+67. Qual é o nome técnico do casulo ou fase de repouso (etapa III) na metamorfose da borboleta?
+A) Lagarta
+B) Borboleta adulta
+C) Crisálida (ou pupa)
+D) Ovo
 Resposta: C
 
-159. O que é a halofilia?
-A) Tolerância a alta salinidade
-B) Não existe
-C) Apenas em animais
-D) Intolerância a alta salinidade
+68. O que representa o termo "Biodiversidade", mencionado no texto de conservação?
+A) A variedade de seres vivos que habitam o nosso planeta
+B) O número de horas de luz durante a noite
+C) Apenas o grupo de animais que fazem hibernação
+D) A quantidade de água existente num deserto
 Resposta: A
 
-160. Como a salinidade afeta a osmorregulação?
-A) Exige adaptações especiais
-B) Não afeta
-C) Apenas afeta pH
-D) Apenas afeta temperatura
+69. Qual das seguintes opções é apontada no texto como uma das principais causas da extinção de espécies?
+A) A destruição de habitats naturais, a poluição e a caça excessiva
+B) A fecundação interna dos animais vivíparos
+C) O cultivo de plantas heliófilas na primavera
+D) A realização de fototropismo positivo pelos caules
 Resposta: A
 
-💨 TOPIC: OXIGÉNIO - DETALHES
-161. O que é a respiração aeróbica?
-A) Processo que usa oxigénio para produzir energia
-B) Processo sem oxigénio
-C) Fotossíntese
-D) Digestão
+70. Que medida humana ajuda a proteger e conservar as espécies animais e vegetais em perigo?
+A) Criar áreas protegidas (Parques e Reservas Naturais)
+B) Promover a caça sem regras nem licenças
+C) Aumentar a poluição dos rios e solos
+D) Destruir as florestas para construir habitações
 Resposta: A
 
-162. Como a temperatura afeta o oxigénio dissolvido?
-A) Aumenta sempre
-B) Não afeta
-C) Água mais quente contém mais oxigénio
-D) Água mais quente contém menos oxigénio
-Resposta: D
 
-163. O que é a respiração anaeróbica?
-A) Processo sem oxigénio
-B) Processo com oxigénio
-C) Digestão
-D) Fotossíntese
-Resposta: A
-
-164. Como a profundidade afeta o oxigénio?
-A) Aumenta com profundidade
-B) Apenas afeta temperatura
-C) Geralmente diminui com profundidade
-D) Não afeta
+Baseado APENAS nos termos e dados que aparecem literalmente nas imagens fornecidas sobre os fatores abióticos, reprodução e ecossistemas, aqui estão mais 50 perguntas para completar o seu banco de questões.
+71. Qual destes animais de Portugal necessita de proteção urgente por estar ameaçado segundo o documento?
+A) O caracol comum
+B) O urso-polar
+C) O lince-ibérico
+D) O bicho-da-seda
 Resposta: C
 
-165. O que é a fermentação?
-A) Respiração anaeróbica em alguns organismos
-B) Digestão
-C) Respiração aeróbica
-D) Fotossíntese
-Resposta: A
 
-166. Como a eutrofização afeta o oxigénio?
-A) Causa hipoxia devido ao excesso de nutrientes
-B) Aumenta oxigénio
-C) Não afeta
-D) Apenas afeta temperatura
-Resposta: A
-
-167. O que é a oxigenação da água?
-A) Não existe
-B) Apenas em ar
-C) Diminuição de oxigénio
-D) Aumento de oxigénio dissolvido
-Resposta: D
-
-168. Como a decomposição afeta o oxigénio?
-A) Não afeta
-B) Apenas afeta temperatura
-C) Consome oxigénio
-D) Produz oxigénio
-Resposta: C
-
-169. O que é a zona fótica?
-A) Camada superficial
-B) Camada sem luz
-C) Camada profunda
-D) Camada onde há luz suficiente para fotossíntese
-Resposta: D
-
-170. Como a turbidez afeta o oxigénio?
-A) Reduz penetração de luz e fotossíntese
-B) Apenas afeta temperatura
-C) Não afeta
-D) Aumenta oxigénio
-Resposta: A
-
-🛡️ TOPIC: PROTEÇÃO - DETALHES
-171. O que é a adaptação morfológica?
-A) Mudanças na forma ou estrutura
-B) Mudanças comportamentais
-C) Mudanças genéticas
-D) Mudanças fisiológicas
-Resposta: A
-
-172. Como a camuflagem protege os organismos?
-A) Apenas atacar
-B) Não protege
-C) Permite confundir-se com o ambiente
-D) Apenas reproduzir
-Resposta: C
-
-173. O que é a adaptação fisiológica?
-A) Mudanças nos processos internos
-B) Mudanças comportamentais
-C) Mudanças na forma
-D) Mudanças genéticas
-Resposta: A
-
-174. Como o mimetismo protege os organismos?
-A) Imita espécies perigosas
-B) Não protege
-C) Apenas reproduzir
-D) Apenas atacar
-Resposta: A
-
-175. O que é a adaptação comportamental?
-A) Mudanças fisiológicas
-B) Mudanças na forma
-C) Mudanças genéticas
-D) Mudanças no comportamento
-Resposta: D
-
-176. Como os espinhos protegem as plantas?
-A) Apenas fotossintetizar
-B) Apenas reproduzir
-C) Não protegem
-D) Dissuadem herbívoros
-Resposta: D
-
-177. O que é a predação?
-A) Reprodução
-B) Captura e consumo de presas
-C) Decomposição
-D) Fotossíntese
+🌍 IMAGEM: O ECOSSISTEMA E COMPONENTES
+72. Segundo o texto introdutório, como se designa o conjunto de seres vivos que habitam um determinado lugar?
+A) Ecologia
+B) Comunidade biótica
+C) Fatores abióticos
+D) Biótopo
 Resposta: B
 
-178. Como as toxinas protegem os organismos?
-A) Não protegem
-B) Causam dano a predadores
-C) Apenas crescer
-D) Apenas reproduzir
-Resposta: B
-
-179. O que é a competição?
-A) Fotossíntese
-B) Cooperação
-C) Reprodução
-D) Luta por recursos limitados
+73. Que nome se dá ao lugar ou meio físico onde a comunidade biótica vive?
+A) Estivação
+B) Espécie unissexual
+C) Gâmeta
+D) Biótopo
 Resposta: D
 
-180. Como o comportamento de grupo protege?
-A) Aumenta vigilância e confunde predadores
-B) Apenas crescer
-C) Não protege
-D) Apenas reproduzir
+74. De acordo com a primeira imagem, o que é que a comunidade biótica e o biótopo formam em conjunto?
+A) Uma população de arminhos
+B) Uma planta heliófita
+C) Um ecossistema
+D) Um fototropismo negativo
+Resposta: C
+
+🌡️ IMAGEM: INFLUÊNCIA DA TEMPERATURA
+75. Qual das seguintes opções apresenta apenas fatores abióticos do meio?
+A) Água, temperatura, luz e solo
+B) Lince-ibérico, lobo e camaleão
+C) Insetos, aves e peixes
+D) Plantas, animais e microrganismos
 Resposta: A
 
+76. Como se chama a variação de temperatura que ocorre entre o dia e a noite na mesma região?
+A) Fotoperíodo positivo
+B) Fecundação externa
+C) Amplitude térmica diurna
+D) Variação sazonal
+Resposta: C
+
+77. Que nome recebe a variação de temperatura que acontece ao longo das quatro estações do ano?
+A) Amplitude térmica diurna
+B) Desenvolvimento indireto
+C) Fototactismo negativo
+D) Variação sazonal ou anual
+Resposta: D
+
+78. O que acontece à atividade vital de um animal se a temperatura subir acima do valor considerado "Máximo"?
+A) Transforma-se em reprodução assexuada
+B) Aumenta muito mais
+C) Diminui até o animal morrer (atinge o limite letal)
+D) Mantém-se na temperatura ótima
+Resposta: C
+
+79. Como se comportam os crocodilos e as cobras em relação à temperatura corporal por serem animais ectotérmicos?
+A) Dependem de fontes de calor externas para aquecer o corpo
+B) Não necessitam de oxigénio para respirar
+C) Mantêm o corpo sempre quente a partir de dentro
+D) Mudam o pelo de castanho para branco
+Resposta: A
+
+80. Como se chama o comportamento dos caracóis e de alguns anfíbios que se enterram na lama durante o verão muito seco para não morrerem com o calor?
+A) Fecundação interna
+B) Fototropismo positivo
+C) Estivação
+D) Hibernação
+Resposta: C
+
+💧 IMAGEM: INFLUÊNCIA DA ÁGUA
+81. Que alteração morfológica protetora se verifica nas plantas xerófitas de climas frios (como nos picos das montanhas) para resistirem à geada?
+A) Desenvolvem folhas gigantes e muito largas
+B) Perdem completamente as raízes
+C) Transformam-se em animais hermafroditas
+D) Reduzem o tamanho e crescem rasteiras junto ao solo
+Resposta: D
+
+82. Qual é o papel da água na sobrevivência dos seres vivos, segundo o texto informativo?
+A) É um fator abiótico que os animais lucífugos evitam sempre
+B) Serve apenas para orientar o crescimento dos caules das plantas
+C) É um elemento essencial à vida, pois entra na constituição de todos os organismos
+D) Serve apenas para mudar a cor do pelo dos mamíferos
+Resposta: C
+
+83. Que nome recebem as plantas que vivem flutuantes ou totalmente submersas na água, como os nenúfares?
+A) Plantas hidrófitas ou aquáticas
+B) Plantas xerófitas
+C) Plantas esquiófilas
+D) Plantas umbrófitas
+Resposta: A
+
+84. Onde podemos encontrar plantas classificadas como "Higrófilas"?
+A) Em águas salgadas no fundo do oceano
+B) Em dunas de areia seca expostas ao sol forte
+C) Em florestas densas, margens de ribeiros ou locais muito húmidos e com sombra
+D) Em desertos de areia muito secos
+Resposta: C
+
+85. Como se caracteriza o revestimento do corpo de animais xerófilos como os insetos do deserto?
+A) Têm uma cutícula ou carapaça impermeável que impede a perda de água
+B) É formado por pelos brancos que atraem a luz
+C) Não têm nenhum tipo de pele protetora
+D) Têm uma pele muito fina que absorve a humidade do ar
+Resposta: A
+
+86. Como conseguem alguns animais xerófilos (como o camelo) passar muito tempo sem beber água no deserto?
+A) Absorvem água através de fototropismo positivo
+B) Têm a capacidade de armazenar gordura e reduzir ao mínimo a água eliminada na urina e fezes
+C) Transformam-se em larvas durante o dia
+D) Fazem fecundação externa na areia seca
+Resposta: B
+
+☀️ IMAGEM: INFLUÊNCIA DA LUZ NOS ANIMAIS
+87. Qual é a principal função dos pelos brancos ou prateados nas folhas de algumas plantas xerófitas?
+A) Absorver o oxigénio diretamente do solo duro
+B) Atrair insetos polinizadores à noite
+C) Refletir a luz solar intensa e reduzir a transpiração
+D) Realizar a reprodução assexuada da planta
+Resposta: C
+
+88. O termo "Luz" refere-se a que tipo de fator no estudo das Ciências Naturais do 5.º ano?
+A) Fator abiótico que influencia os seres vivos
+B) Órgão reprodutor masculino
+C) Etapa da metamorfose da lagarta
+D) Fator biótico essencial
+Resposta: A
+
+89. Se colocarmos um grupo de bichos-da-seda numa caixa e eles se deslocarem todos para o lado iluminado, que fenómeno demonstram?
+A) Estivação anual
+B) Fototactismo positivo
+C) Fototactismo negativo
+D) Fototropismo positivo
+Resposta: B
+
+90. Porque é que os animais lucífugos (como a bicha-cadela ou a minhoca) fogem dos locais iluminados?
+A) Porque procuram plantas heliófilas para se alimentar
+B) Porque a luz forte os incomoda e preferem ambientes escuros e protegidos
+C) Porque realizam a eclosão dos seus ovos ao Sol
+D) Porque precisam de fazer a fotossíntese no escuro
+Resposta: B
+
+91. Como se classificam os animais que realizam a maior parte das suas funções vitais ao amanhecer ou ao entardecer (como o crepúsculo)?
+A) Animais noturnos
+B) Plantas umbrófitas
+C) Animais crepusculares
+D) Animais diurnos
+Resposta: C
+
+92. O mocho e o morcego possuem olhos e sentidos adaptados para caçar na ausência de luz solar. Eles são ativos durante:
+A) O verão (animais estivantes)
+B) A noite (animais noturnos)
+C) A primavera (animais heliófilos)
+D) O dia (animais diurnos)
+Resposta: B
+
+🌱 IMAGEM: INFLUÊNCIA DA LUZ NAS PLANTAS
+93. O que acontece à plumagem ou pelo de certos animais do norte (como o arminho) no verão, quando os dias têm muitas horas de luz?
+A) Transforma-se em escamas impermeáveis
+B) Cai por completo e o animal fica sem revestimento
+C) Fica totalmente branca para se confundir com a neve
+D) Adquire uma coloração castanha ou escura
+Resposta: D
+
+94. Que órgão da planta apresenta geralmente um "Fototropismo Positivo" ao crescer virado para a luz?
+A) O caule
+B) A raiz principal
+C) Os vasos subterrâneos
+D) A semente na terra
+Resposta: A
+
+95. Que tipo de fototropismo apresenta a raiz de uma planta ao crescer e afastar-se da luz em direção ao solo profundo?
+A) Fototropismo negativo
+B) Fototactismo positivo
+C) Fototropismo positivo
+D) Heliotismo direto
+Resposta: A
+
+96. Como se chamam as plantas que necessitam de receber luz solar direta e abundante para se desenvolverem bem?
+A) Plantas umbrófitas
+B) Plantas heliófilas
+C) Plantas hidrófitas
+D) Plantas esquiófilas
+Resposta: B
+
+97. Os fetos e os musgos são plantas que encontramos em locais sombrios no interior das matas. Como se classificam quanto à luz?
+A) Xerófitas
+B) Mesófilas
+C) Umbrófitas ou esquiófilas
+D) Heliófilas
+Resposta: C
+
+🧬 IMAGEM: REPRODUÇÃO DOS SERES VIVOS
+98. Qual destas plantas serve de exemplo no manual para uma planta heliófita (que adora e segue a exposição solar)?
+A) O feto dos muros
+B) O girassol
+C) O musgo das rochas
+D) A alga verde submersa
+Resposta: B
+
+99. Na reprodução sexuada, qual é o nome dado às células sexuais masculina e feminina?
+A) Larvas e pupas
+B) Útero e placenta
+C) Óvulos e gâmetas
+D) Gâmetas
+Resposta: D
+
+100. Como se caracteriza o processo de "Reprodução Assexuada"?
+A) Há união de gâmetas vindos de dois progenitores diferentes
+B) Um único progenitor origina novos indivíduos sem intervenção de células sexuais
+C) Ocorre apenas no útero dos animais mamíferos vivíparos
+D) Exige que ocorra uma metamorfose completa na água
+Resposta: B
+
+101. Onde é libertado o espermatozoide e o óvulo nos animais que realizam "Fecundação Externa"?
+A) No interior das vias genitais da fêmea
+B) Diretamente na água (meio exterior)
+C) Dentro de um casulo ou crisálida na árvore
+D) No interior do útero materno
+Resposta: B
+
+102. Como se designam os animais que apresentam apenas um dos sexos no seu corpo (ou são machos ou são fêmeas)?
+A) Unissexuais
+B) Assexuados
+C) Hidrófilos
+D) Hermafroditas
+Resposta: A
+
+🐣 IMAGEM: DESENVOLVIMENTO EMBRIONÁRIO
+103. Que exemplo de animal hermafrodita (que tem os dois sexos ativos no mesmo indivíduo) é dado no texto?
+A) O caracol de jardim
+B) O cão
+C) A rã-verde
+D) A borboleta comum
+Resposta: A
+
+104. Como se chamam os animais cujo embrião se desenvolve dentro do corpo da fêmea (no útero) e recebe nutrientes diretamente da mãe?
+A) Animais ovovivíparos
+B) Animais ovíparos
+C) Animais vivíparos
+D) Animais assexuados
+Resposta: C
+
+105. Nos animais ovíparos terrestres (como as aves), o que protege o embrião contra choques e a dessecação?
+A) A casca rígida do ovo
+B) O leite materno
+C) A placenta macia
+D) O cordão umbilical flexível
+Resposta: A
+
+106. O que caracteriza o desenvolvimento do embrião num animal classificado como "Ovovivíparo"?
+A) Desenvolve-se no útero sem casca protetora
+B) Desenvolve-se num ovo que eclode fora do corpo da mãe
+C) Não há formação de ovo nem de gâmetas
+D) Desenvolve-se dentro de um ovo que permanece no interior do corpo da fêmea até nascer
+Resposta: D
+
+107. Como se designa o momento em que a cria dos animais ovíparos quebra a casca do ovo e sai para o exterior?
+A) Parto
+B) Eclosão
+C) Metamorfose
+D) Fecundação
+Resposta: B
+
+108. Como se chama o ato de deitar os ovos no ninho e aquecê-los com o corpo, típico das aves ovíparas?
+A) Estivação
+B) Fototactismo
+C) Incubação ou postura
+D) Amamentação
+Resposta: C
+
+🦋 IMAGEM: METAMORFOSES E CRESCIMENTO
+109. Através de que órgão os animais vivíparos fixam o embrião à parede do útero para receber oxigénio da mãe?
+A) Através da placenta
+B) Através da casca calcária
+C) Através das brânquias da larva
+D) Através da gema do ovo
+Resposta: A
+
+110. O que distingue o "Desenvolvimento Direto" do "Desenvolvimento Indireto"?
+A) No direto o animal passa por metamorfoses; no indireto nasce igual ao adulto
+B) O direto acontece apenas na água; o indireto acontece apenas no deserto
+C) No direto existem gâmetas masculinos; no indireto a reprodução é assexuada
+D) No direto o animal nasce com uma forma semelhante à do adulto; no indireto nasce uma larva muito diferente do adulto
+Resposta: D
+
+111. Que nome recebe a forma jovem que sai do ovo de uma rã e vive exclusivamente na água?
+A) Girino
+B) Rã adulta
+C) Lagarta
+D) Crisálida
+Resposta: A
+
+112. Durante a metamorfose do girino para rã adulta, que alteração morfológica externa salta à vista nas imagens?
+A) A transformação do corpo num cato suculento
+B) O desenvolvimento de uma carapaça de caracol
+C) O crescimento das patas (traseiras e dianteiras) e o desaparecimento gradual da cauda
+D) O aparecimento de antenas e asas de inseto
+Resposta: C
+
+113. Qual é a ordem correta das fases de crescimento da borboleta, a partir do ovo?
+A) Ovo -> Girino -> Rã -> Borboleta adulta
+B) Ovo -> Crisálida -> Lagarta -> Borboleta adulta
+C) Ovo -> Lagarta (larva) -> Crisálida (pupa) -> Borboleta adulta
+D) Lagarta -> Ovo -> Borboleta adulta -> Crisálida
+Resposta: C
+
+🦅 IMAGEM: COMPORTAMENTOS E PROTEÇÃO DA BIODIVERSIDADE
+114. O que acontece à lagarta da borboleta quando entra na fase de "Crisálida"?
+A) Enterra-se na areia para fazer a estivação
+B) Procura um macho para realizar a fecundação externa
+C) Fica imobilizada dentro de um casulo onde ocorrem transformações profundas no seu corpo
+D) Começa a voar e a alimentar-se de néctar
+Resposta: C
+
+115. Que nome se dá ao longo deslocamento periódico que muitas aves realizam para fugir ao frio e à falta de alimento?
+A) Hibernação
+B) Fototropismo
+C) Migração
+D) Estivação
+Resposta: C
+
+116. Quando uma espécie viva desaparece para sempre da face da Terra, diz-se que ocorreu uma:
+A) Aclimatação sazonal
+B) Extinção
+C) Adaptação morfológica
+D) Fecundação interna
+Resposta: B
+
+117. De acordo com o texto sobre a biodiversidade, qual das seguintes ações humanas prejudica diretamente a sobrevivência das espécies?
+A) A criação de Parques e Reservas Naturais
+B) A caça e pesca excessivas e sem controlo, juntamente com os incêndios e poluição
+C) A proteção do lince-ibérico e da lontra
+D) O estudo da ecologia e dos fatores abióticos
+Resposta: B
+
+118. Qual é o principal objetivo da criação de Áreas Protegidas em Portugal?
+A) Facilitar a destruição das florestas para a agricultura
+B) Permitir a caça de animais ameaçados durante o ano todo
+C) Controlar o número de horas de luz solar na primavera
+D) Preservar os habitats naturais e proteger a fauna e a flora em perigo de extinção
+Resposta: D
+
+119. O camaleão e a lontra são citados no texto como exemplos de quê?
+A) Plantas umbrófitas que crescem em locais sombrios
+B) Animais hidrófilos que vivem em desertos áridos
+C) Espécies ameaçadas em Portugal que necessitam de proteção
+D) Animais que fazem reprodução assexuada por eclosão
+Resposta: C
+
+120. O que significa dizer que o lince-ibérico é uma "espécie em perigo de extinção"?
+A) Que existem demasiados linces espalhados por todo o país
+B) Que é um animal ectotérmico que vive nas águas dos rios
+C) Que corre o risco de desaparecer permanentemente se não for protegido
+D) Que se transforma em crisálida durante o inverno rigoroso
+Resposta: C
+
+121. Completando o estudo das relações no ecossistema, o que acontece se os habitats naturais forem totalmente destruídos pelo Homem?
+A) Todos os animais passam a fazer fototropismo positivo
+B) A temperatura letal inferior deixa de existir
+C) Os seres vivos perdem as condições necessárias de abrigo e alimento, correndo risco de extinção
+D) A biodiversidade aumenta imenso
+Resposta: C
